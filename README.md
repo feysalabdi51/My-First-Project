@@ -36,8 +36,8 @@ Responsive and animated UI
 
 
 Live Demo
+https://feysalabdi51.github.io/My-First-Project/
 
-Coming soon (you can deploy via GitHub Pages, Netlify, or Vercel)
 
 
 Setup Instructions
